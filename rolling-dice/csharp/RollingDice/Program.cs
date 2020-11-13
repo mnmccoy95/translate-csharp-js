@@ -62,22 +62,22 @@ namespace RollingDice
                 }
                 */
                 case 1:
-                    dieString = "\u2680";
+                    dieString = "1";
                     break;
                 case 2:
-                    dieString = "\u2681";
+                    dieString = "2";
                     break;
                 case 3:
-                    dieString = "\u2682";
+                    dieString = "3";
                     break;
                 case 4:
-                    dieString = "\u2683";
+                    dieString = "4";
                     break;
                 case 5:
-                    dieString = "\u2684";
+                    dieString = "5";
                     break;
                 case 6:
-                    dieString = "\u2685";
+                    dieString = "6";
                     break;
             }
 
