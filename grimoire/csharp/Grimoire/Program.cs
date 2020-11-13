@@ -61,7 +61,7 @@ namespace Grimoire
                     EnergyReqired = 2.99
                 },
                 new Spell() {
-                    Name = "Give a deaf person the ability to heal",
+                    Name = "Give a deaf person the ability to read minds (and destroy ableists)",
                     IsEvil = false,
                     EnergyReqired = 12.2
                 },
